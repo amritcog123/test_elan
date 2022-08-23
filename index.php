@@ -64,7 +64,7 @@
          <div class="container">
             <div class="caption">
                <div>
-                  <span class="span wow animate__animated animate__fadeInUp text-center">WELCOME</span>
+                  <span class="span wow animate__animated animate__fadeInUp text-center">WELCOME to you</span>
                   <h1 class="wow animate__animated animate__fadeInUp text-center">Smart business starts <br/>
                      with smart building
                   </h1>
